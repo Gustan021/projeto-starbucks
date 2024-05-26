@@ -29,7 +29,7 @@ while (continuar) {
 
         continuar = prompt("Deseja realizar outro cálculo ? (sim/não)").toLowerCase()
     } else {
-        alert("obrigado por usar nossa calculadora aperte f5 quando quiser usar novamente")
+        alert("obrigado por usar nossa calculadora atualize seu navegador quando quiser usar novamente")
         break
     }
 }
